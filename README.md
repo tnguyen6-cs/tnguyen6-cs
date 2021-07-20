@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there, I'm Trinh :sunny:
 
-<!--
-**tnguyen6-cs/tnguyen6-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science major at Swarthmore College interested in software engineering and web development.
 
-Here are some ideas to get you started:
+## What I'm up to:
+- Learning Web Development through Havard's CS50 :book: 
+- Building YarnOver, a website where users can find crochet patterns according to yarn colors :computer:
+- Reading "Code & Conquer" :books:
+- Crocheting a <a href="https://youtu.be/WnjiCtlHXi0"> Daisy Granny Square </a>! 🧶 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me:
+- :mailbox: thpnguyen18@gmail.com
+- :paperclip: <a href="https://www.linkedin.com/in/trinhhpnguyen/"> LinkedIn </a>
