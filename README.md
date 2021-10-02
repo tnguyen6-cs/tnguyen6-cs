@@ -1,6 +1,6 @@
 # Hi there, I'm Trinh :sunny:
 
-I am a Computer Science major at Swarthmore College interested in software engineering and web development.
+I am a Computer Science major at Swarthmore College interested in software engineering and product management.
 
 ## What I'm up to:
 - Learning Web Development through Havard's CS50 :book: 
